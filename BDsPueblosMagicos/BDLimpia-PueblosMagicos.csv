@@ -5,6 +5,7 @@ Aguascalientes,San Jose de Gracia,2015
 Baja California,Tecate,2012
 Baja California Sur,Todos Santos,2006
 Baja California Sur,Loreto,2012
+Campeche,Isla Aguada, Unknown
 Campeche,Palizada,2011
 Coahuila,Parras de la Fuente,2004
 Coahuila,Cuatro Cienegas,2012
@@ -12,6 +13,7 @@ Coahuila,Arteaga,2012
 Coahuila,Viesca,2012
 Coahuila,Candela,2015
 Coahuila,Guerrero,2015
+Coahuila,Melchor Muzquiz,Unknown
 Colima,Comala,2002
 Chiapas,San Cristobal de las Casas,2003
 Chiapas,Comitan de Dominguez,2012
@@ -21,17 +23,21 @@ Chihuahua,Creel,2007
 Chihuahua,Batopilas,2012
 Chihuahua,Casas Grandes,2015
 Durango,Mapimi,2012
+Durango,Nombre de Dios,Unknown
 Guanajuato,Dolores Hidalgo,2002
 Guanajuato,Mineral de Pozos,2012
 Guanajuato,Jalpa,2012
 Guanajuato,Salvatierra,2012
 Guanajuato,Yuriria,2012
+Guanajuato,Comonfort,Unknown
 Guerrero,Taxco,2002
 Hidalgo,Real del Monte,2004
 Hidalgo,Huasca de Ocampo,2001
 Hidalgo,Mineral del Chico,2011
 Hidalgo,Huichapan,2012
 Hidalgo,Tecozautla,2015
+Hidalgo,Zempoala,Unknown
+Hidalgo,Zimapan,Unknown
 Jalisco,Mazamitla,2005
 Jalisco,Tapalpa,2002
 Jalisco,Tequila,2003
@@ -39,6 +45,8 @@ Jalisco,San Sebastian del Oeste,2011
 Jalisco,Lagos de Moreno,2012
 Jalisco,Mascota,2015
 Jalisco,Talpa de Allende,2015
+Jalisco,Ajijic,Unknown
+Jalisco,Tlaquepaque,Unknown
 Mexico,Malinalco,2010
 Mexico,Tepotzotlan,2002
 Mexico,Valle de Bravo,2005
@@ -48,6 +56,7 @@ Mexico,Aculco,2015
 Mexico,Ixtapan de la Sal,2015
 Mexico,Teotihuacan y San Martin de las Piramides,2015
 Mexico,Villa del Carbon,2015
+Mexico,Tonatico,Unknown
 Michoacan,Cuitzeo,2006
 Michoacan,Patzcuaro,2002
 Michoacan,Sta. Clara del Cobre,2010
@@ -56,17 +65,22 @@ Michoacan,Angangueo,2012
 Michoacan,Tacambaro,2012
 Michoacan,Jiquilpan,2012
 Michoacan,Tzintzuntzan,2012
+Michoacan,Paracho,Unknown
 Morelos,Tepoztlan,2002
 Morelos,Tlayacapan,2011
 Nayarit,Jala,2012
 Nayarit,Sayulita,2015
+Nayarit,Compostela,Unknown
+Nayarit,Mexcaltitan,Unknown
 Nuevo Leon,Santiago,2006
 Nuevo Leon,Linares,2015
+Nuevo Leon,Bustamante,Unknown
 Oaxaca,Capulalpam de Mendez,2007
 Oaxaca,Huautla de Jimenez,2015
 Oaxaca,Mazunte,2015
 Oaxaca,San Pablo Villa de Mitla,2015
 Oaxaca,San Pedro y San Pablo Teposcolula,2015
+Oaxaca,Santa Catarina Juquila,Unknown
 Puebla,Cuetzalan del Progreso,2002
 Puebla,Zacatlan,2011
 Puebla,Pahuatlan,2012
@@ -76,16 +90,20 @@ Puebla,Tlatlauquitepec,2012
 Puebla,Xicotepec,2012
 Puebla,Atlixco,2015
 Puebla,Huahuchinango,2015
+Puebla,Tetela de Ocampo,Unknown
 Queretaro,Bernal,2005
 Queretaro,Jalpan de Serra,2010
 Queretaro,Cadereyta de Montes,2011
 Queretaro,Tequisquiapan,2012
 Queretaro,San Joaquin,2015
+Queretaro,Amealco de Bonfil,Unknown
 Quintana Roo,Bacalar,2006
 Quintana Roo,Isla Mujeres ,2015
 Quintana Roo,Tulum,2015
 San Luis Potosi,Real de Catorce,2001
 San Luis Potosi,Xilitla,2011
+San Luis Potosi,Santa María del Río,Unknown
+San Luis Potosi,Aquismón,Unknown
 Sinaloa,Cosala,2005
 Sinaloa,El Fuerte,2009
 Sinaloa,El Rosario,2012
@@ -105,8 +123,11 @@ Veracruz,Zozocolco,2015
 Veracruz,Coscomatepec,2015
 Yucatan,Izamal,2002
 Yucatan,Valladolid,2012
+Yucatan,Mani,Unknown
+Yucatan,Sisal,Unknown
 Zacatecas,Jerez de Garcia Salinas,2007
 Zacatecas,Teul de Gonzalez Ortega,2011
 Zacatecas,Sombrerete,2012
 Zacatecas,Pinos,2012
 Zacatecas,Nochistlan,2012
+Zacatecas,Guadalupe,Unknown
