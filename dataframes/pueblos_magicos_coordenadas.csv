@@ -1,133 +1,133 @@
-,Unnamed: 0,estado,municipio,ano_ingreso,latitud,longitud
-0,0,Aguascalientes,Real de Asientos,2006,22.2384759,-102.0890156
-1,1,Aguascalientes,Calvillo,2012,21.8468345,-102.7186454
-2,2,Aguascalientes,San Jose de Gracia,2015,22.1475929,-102.4129804
-3,3,Baja California,Tecate,2012,32.563609,-116.6256752
-4,4,Baja California Sur,Todos Santos,2006,23.4463619,-110.2265101
-5,5,Baja California Sur,Loreto,2012,26.0117564,-111.3477531
-6,6,Campeche,Isla Aguada, Unknown,18.7842824,-91.4918344
-7,7,Campeche,Palizada,2011,18.2545777,-92.0914799
-8,8,Coahuila,Parras de la Fuente,2004,25.4492883,-102.1747077
-9,9,Coahuila,Cuatro Cienegas,2012,26.9868149,-102.066403
-10,10,Coahuila,Arteaga,2012,25.4546718,-100.850791
-11,11,Coahuila,Viesca,2012,25.3453848,-102.8083503
-12,12,Coahuila,Candela,2015,26.8388667,-100.6658581
-13,13,Coahuila,Guerrero,2015,28.3089889,-100.3807826
-14,14,Coahuila,Melchor Muzquiz,2018,27.8800603,-101.5077573
-15,15,Colima,Comala,2002,19.3190634,-103.7549847
-16,16,Chiapas,San Cristobal de las Casas,2003,16.7369928,-92.63759879999999
-17,17,Chiapas,Comitan de Dominguez,2012,16.2299602,-92.1155691
-18,18,Chiapas,Chiapa de Corzo,2012,16.7021616,-93.0081378
-19,19,Chiapas,Palenque,2015,17.5109792,-91.9930466
-20,20,Chihuahua,Creel,2007,27.7504473,-107.636889
-21,21,Chihuahua,Batopilas,2012,27.030387,-107.7362336
-22,22,Chihuahua,Casas Grandes,2015,30.3740395,-107.9552259
-23,23,Durango,Mapimi,2012,25.833708,-103.8487392
-24,24,Durango,Nombre de Dios,Unknown,23.8482422,-104.2441169
-25,25,Guanajuato,Dolores Hidalgo,2002,21.151597,-100.9367183
-26,26,Guanajuato,Mineral de Pozos,2012,21.2231788,-100.4936673
-27,27,Guanajuato,Jalpa,2012,20.8794331,-101.9828669
-28,28,Guanajuato,Salvatierra,2012,20.2090023,-100.8818401
-29,29,Guanajuato,Yuriria,2012,20.2125571,-101.1265968
-30,30,Guanajuato,Comonfort,Unknown,20.7197856,-100.7596892
-31,31,Guerrero,Taxco,2002,18.5565468,-99.60512059999999
-32,32,Hidalgo,Real del Monte,2004,20.1436705,-98.673811
-33,33,Hidalgo,Huasca de Ocampo,2001,20.2040455,-98.5754259
-34,34,Hidalgo,Mineral del Chico,2011,20.2150472,-98.7310435
-35,35,Hidalgo,Huichapan,2012,20.3786677,-99.6508401
-36,36,Hidalgo,Tecozautla,2015,20.5326359,-99.6323321
-37,37,Hidalgo,Zempoala,Unknown,19.9169605,-98.6696977
-38,38,Hidalgo,Zimapan,Unknown,20.7366982,-99.3824614
-39,39,Jalisco,Mazamitla,2005,19.9165757,-103.0212924
-40,40,Jalisco,Tapalpa,2002,19.9476711,-103.7607783
-41,41,Jalisco,Tequila,2003,20.8819452,-103.8325001
-42,42,Jalisco,San Sebastian del Oeste,2011,20.7613306,-104.8528075
-43,43,Jalisco,Lagos de Moreno,2012,21.3634964,-101.9291015
-44,44,Jalisco,Mascota,2015,20.5260029,-104.7892254
-45,45,Jalisco,Talpa de Allende,2015,20.3784149,-104.8191965
-46,46,Jalisco,Ajijic,Unknown,20.2996995,-103.2637074
-47,47,Jalisco,Tlaquepaque,Unknown,20.6243088,-103.3212248
-48,48,Mexico,Malinalco,2010,18.9483917,-99.49357979999999
-49,49,Mexico,Tepotzotlan,2002,19.7185096,-99.2065202
-50,50,Mexico,Valle de Bravo,2005,19.1950964,-100.1326725
-51,51,Mexico,El Oro,2011,19.8007531,-100.1339164
-52,52,Mexico,Metepec,2012,19.2528864,-99.598551
-53,53,Mexico,Aculco,2015,20.0985989,-99.82758609999999
-54,54,Mexico,Ixtapan de la Sal,2015,18.8390501,-99.6760096
-55,55,Mexico,Teotihuacan y San Martin de las Piramides,2015,19.704346,-98.8347275
-56,56,Mexico,Villa del Carbon,2015,19.7287602,-99.4617111
-57,57,Mexico,Tonatico,Unknown,18.8085105,-99.67033359999999
-58,58,Michoacan,Cuitzeo,2006,19.9694366,-101.1419185
-59,59,Michoacan,Patzcuaro,2002,19.5134546,-101.6091876
-60,60,Michoacan,Sta. Clara del Cobre,2010,19.4064279,-101.6396979
-61,61,Michoacan,Tlalpujahua,2005,19.8055547,-100.1734224
-62,62,Michoacan,Angangueo,2012,19.6196444,-100.2835336
-63,63,Michoacan,Tacambaro,2012,19.2343775,-101.4576663
-64,64,Michoacan,Jiquilpan,2012,19.994231,-102.7192577
-65,65,Michoacan,Tzintzuntzan,2012,19.6287856,-101.57769
-66,66,Michoacan,Paracho,Unknown,19.6464537,-102.0461233
-67,67,Morelos,Tepoztlan,2002,18.9848015,-99.0930528
-68,68,Morelos,Tlayacapan,2011,18.960767,-98.98250829999999
-69,69,Nayarit,Jala,2012,21.1046363,-104.4378579
-70,70,Nayarit,Sayulita,2015,20.8688888,-105.4408333
-71,71,Nayarit,Compostela,Unknown,21.2379255,-104.9007613
-72,72,Nayarit,Mexcaltitan,Unknown,21.9056579,-105.4752218
-73,73,Nuevo Leon,Santiago,2006,25.4166153,-100.1591213
-74,74,Nuevo Leon,Linares,2015,24.8639494,-99.56178469999999
-75,75,Nuevo Leon,Bustamante,Unknown,26.5343082,-100.5055369
-76,76,Oaxaca,Capulalpam de Mendez,2007,17.3040094,-96.44701189999999
-77,77,Oaxaca,Huautla de Jimenez,2015,18.130831,-96.8436739
-78,78,Oaxaca,Mazunte,2015,15.6677291,-96.5545185
-79,79,Oaxaca,San Pablo Villa de Mitla,2015,16.9213244,-96.3625053
-80,80,Oaxaca,San Pedro y San Pablo Teposcolula,2015,17.5105133,-97.488446
-81,81,Oaxaca,Santa Catarina Juquila,Unknown,16.2375067,-97.29328029999999
-82,82,Puebla,Cuetzalan del Progreso,2002,20.0176353,-97.5233705
-83,83,Puebla,Zacatlan,2011,19.9350819,-97.9611534
-84,84,Puebla,Pahuatlan,2012,20.2769343,-98.15016089999999
-85,85,Puebla,Chignahuapan,2012,19.8383768,-98.0312084
-86,86,Puebla,Cholula,2012,19.0765772,-98.30211919999999
-87,87,Puebla,Tlatlauquitepec,2012,19.8463549,-97.49719809999999
-88,88,Puebla,Xicotepec,2012,20.2786208,-97.964259
-89,89,Puebla,Atlixco,2015,18.9131227,-98.4293891
-90,90,Puebla,Huahuchinango,2015,20.1757001,-98.0628862
-91,91,Puebla,Tetela de Ocampo,Unknown,19.8115842,-97.8096037
-92,92,Queretaro,Bernal,2005,20.7379323,-99.9423166
-93,93,Queretaro,Jalpan de Serra,2010,21.2190312,-99.4714352
-94,94,Queretaro,Cadereyta de Montes,2011,20.6904037,-99.82086319999999
-95,95,Queretaro,Tequisquiapan,2012,20.5187326,-99.8850586
-96,96,Queretaro,San Joaquin,2015,20.916487,-99.5649876
-97,97,Queretaro,Amealco de Bonfil,Unknown,20.1885969,-100.1451177
-98,98,Quintana Roo,Bacalar,2006,18.6782919,-88.3923946
-99,99,Quintana Roo,Isla Mujeres ,2015,21.2321799,-86.73409339999999
-100,100,Quintana Roo,Tulum,2015,20.2114185,-87.46535019999999
-101,101,San Luis Potosi,Real de Catorce,2001,23.6893967,-100.8855459
-102,102,San Luis Potosi,Xilitla,2011,21.3841719,-98.9921748
-103,103,San Luis Potosi,Santa María del Río,Unknown,21.8031036,-100.7336555
-104,104,San Luis Potosi,Aquismón,Unknown,21.6248648,-99.0197318
-105,105,Sinaloa,Cosala,2005,24.4136366,-106.6915369
-106,106,Sinaloa,El Fuerte,2009,26.417632,-108.6145938
-107,107,Sinaloa,El Rosario,2012,22.75,-105.371111
-108,108,Sinaloa,Mocorito,2015,25.481348,-107.9205937
-109,109,Sonora,Alamos,2005,27.0254869,-108.941309
-110,110,Sonora,Magdalena de Kino,2012,30.6248514,-110.9714055
-111,111,Tabasco,Tapijulapa,2010,17.4622198,-92.7779652
-112,112,Tamaulipas,Mier,2007,26.4265448,-99.15115019999999
-113,113,Tamaulipas,Tula,2011,22.9906564,-99.7204805
-114,114,Tlaxcala,Huamantla,2007,19.3184941,-97.92338260000001
-115,115,Tlaxcala,Tlaxco,2015,19.61766,-98.1174721
-116,116,Veracruz,Coatepec,2006,19.451938,-96.9594511
-117,117,Veracruz,Xico,2011,19.4247826,-97.00415249999999
-118,118,Veracruz,Papantla,2012,20.4566709,-97.3156131
-119,119,Veracruz,Orizaba,2015,18.8504744,-97.1036396
-120,120,Veracruz,Zozocolco,2015,20.1400074,-97.57501640000001
-121,121,Veracruz,Coscomatepec,2015,19.0683148,-97.0471556
-122,122,Yucatan,Izamal,2002,20.9299997,-89.02271259999999
-123,123,Yucatan,Valladolid,2012,20.68964,-88.20224879999999
-124,124,Yucatan,Mani,Unknown,20.3930712,-89.3917555
-125,125,Yucatan,Sisal,Unknown,21.1667573,-90.0244872
-126,126,Zacatecas,Jerez de Garcia Salinas,2007,22.6468746,-102.9876221
-127,127,Zacatecas,Teul de Gonzalez Ortega,2011,21.4658511,-103.4598473
-128,128,Zacatecas,Sombrerete,2012,23.6342457,-103.6391657
-129,129,Zacatecas,Pinos,2012,22.2972779,-101.5747236
-130,130,Zacatecas,Nochistlan,2012,21.3634678,-102.8436668
-131,131,Zacatecas,Guadalupe,Unknown,22.7565759,-102.511889
+,estado,municipio,ano_ingreso,latitud,longitud
+0,Aguascalientes,Real de Asientos,2006,22.2384759,-102.0890156
+1,Aguascalientes,Calvillo,2012,21.8468345,-102.7186454
+2,Aguascalientes,San Jose de Gracia,2015,22.1475929,-102.4129804
+3,Baja California,Tecate,2012,32.563609,-116.6256752
+4,Baja California Sur,Todos Santos,2006,23.4463619,-110.2265101
+5,Baja California Sur,Loreto,2012,26.0117564,-111.3477531
+6,Campeche,Isla Aguada, Unknown,18.7842824,-91.4918344
+7,Campeche,Palizada,2011,18.2545777,-92.0914799
+8,Coahuila,Parras de la Fuente,2004,25.4492883,-102.1747077
+9,Coahuila,Cuatro Cienegas,2012,26.9868149,-102.066403
+10,Coahuila,Arteaga,2012,25.4546718,-100.850791
+11,Coahuila,Viesca,2012,25.3453848,-102.8083503
+12,Coahuila,Candela,2015,26.8388667,-100.6658581
+13,Coahuila,Guerrero,2015,28.3089889,-100.3807826
+14,Coahuila,Melchor Muzquiz,2018,27.8800603,-101.5077573
+15,Colima,Comala,2002,19.3190634,-103.7549847
+16,Chiapas,San Cristobal de las Casas,2003,16.7369928,-92.6375988
+17,Chiapas,Comitan de Dominguez,2012,16.2299602,-92.1155691
+18,Chiapas,Chiapa de Corzo,2012,16.7021616,-93.0081378
+19,Chiapas,Palenque,2015,17.5109792,-91.9930466
+20,Chihuahua,Creel,2007,27.7504473,-107.636889
+21,Chihuahua,Batopilas,2012,27.030387,-107.7362336
+22,Chihuahua,Casas Grandes,2015,30.3740395,-107.9552259
+23,Durango,Mapimi,2012,25.833708,-103.8487392
+24,Durango,Nombre de Dios,Unknown,23.8482422,-104.2441169
+25,Guanajuato,Dolores Hidalgo,2002,21.151597,-100.9367183
+26,Guanajuato,Mineral de Pozos,2012,21.2231788,-100.4936673
+27,Guanajuato,Jalpa,2012,20.8794331,-101.9828669
+28,Guanajuato,Salvatierra,2012,20.2090023,-100.8818401
+29,Guanajuato,Yuriria,2012,20.2125571,-101.1265968
+30,Guanajuato,Comonfort,Unknown,20.7197856,-100.7596892
+31,Guerrero,Taxco,2002,18.5565468,-99.6051206
+32,Hidalgo,Real del Monte,2004,20.1436705,-98.673811
+33,Hidalgo,Huasca de Ocampo,2001,20.2040455,-98.5754259
+34,Hidalgo,Mineral del Chico,2011,20.2150472,-98.7310435
+35,Hidalgo,Huichapan,2012,20.3786677,-99.6508401
+36,Hidalgo,Tecozautla,2015,20.5326359,-99.6323321
+37,Hidalgo,Zempoala,Unknown,19.9169605,-98.6696977
+38,Hidalgo,Zimapan,Unknown,20.7366982,-99.3824614
+39,Jalisco,Mazamitla,2005,19.9165757,-103.0212924
+40,Jalisco,Tapalpa,2002,19.9476711,-103.7607783
+41,Jalisco,Tequila,2003,20.8819452,-103.8325001
+42,Jalisco,San Sebastian del Oeste,2011,20.7613306,-104.8528075
+43,Jalisco,Lagos de Moreno,2012,21.3634964,-101.9291015
+44,Jalisco,Mascota,2015,20.5260029,-104.7892254
+45,Jalisco,Talpa de Allende,2015,20.3784149,-104.8191965
+46,Jalisco,Ajijic,Unknown,20.2996995,-103.2637074
+47,Jalisco,Tlaquepaque,Unknown,20.6243088,-103.3212248
+48,Mexico,Malinalco,2010,18.9483917,-99.4935798
+49,Mexico,Tepotzotlan,2002,19.7185096,-99.2065202
+50,Mexico,Valle de Bravo,2005,19.1950964,-100.1326725
+51,Mexico,El Oro,2011,19.8007531,-100.1339164
+52,Mexico,Metepec,2012,19.2528864,-99.598551
+53,Mexico,Aculco,2015,20.0985989,-99.8275861
+54,Mexico,Ixtapan de la Sal,2015,18.8390501,-99.6760096
+55,Mexico,Teotihuacan y San Martin de las Piramides,2015,19.704346,-98.8347275
+56,Mexico,Villa del Carbon,2015,19.7287602,-99.4617111
+57,Mexico,Tonatico,Unknown,18.8085105,-99.6703336
+58,Michoacan,Cuitzeo,2006,19.9694366,-101.1419185
+59,Michoacan,Patzcuaro,2002,19.5134546,-101.6091876
+60,Michoacan,Sta. Clara del Cobre,2010,19.4064279,-101.6396979
+61,Michoacan,Tlalpujahua,2005,19.8055547,-100.1734224
+62,Michoacan,Angangueo,2012,19.6196444,-100.2835336
+63,Michoacan,Tacambaro,2012,19.2343775,-101.4576663
+64,Michoacan,Jiquilpan,2012,19.994231,-102.7192577
+65,Michoacan,Tzintzuntzan,2012,19.6287856,-101.57769
+66,Michoacan,Paracho,Unknown,19.6464537,-102.0461233
+67,Morelos,Tepoztlan,2002,18.9848015,-99.0930528
+68,Morelos,Tlayacapan,2011,18.960767,-98.9825083
+69,Nayarit,Jala,2012,21.1046363,-104.4378579
+70,Nayarit,Sayulita,2015,20.8688888,-105.4408333
+71,Nayarit,Compostela,Unknown,21.2379255,-104.9007613
+72,Nayarit,Mexcaltitan,Unknown,21.9056579,-105.4752218
+73,Nuevo Leon,Santiago,2006,25.4166153,-100.1591213
+74,Nuevo Leon,Linares,2015,24.8639494,-99.5617847
+75,Nuevo Leon,Bustamante,Unknown,26.5343082,-100.5055369
+76,Oaxaca,Capulalpam de Mendez,2007,17.3040094,-96.4470119
+77,Oaxaca,Huautla de Jimenez,2015,18.130831,-96.8436739
+78,Oaxaca,Mazunte,2015,15.6677291,-96.5545185
+79,Oaxaca,San Pablo Villa de Mitla,2015,16.9213244,-96.3625053
+80,Oaxaca,San Pedro y San Pablo Teposcolula,2015,17.5105133,-97.488446
+81,Oaxaca,Santa Catarina Juquila,Unknown,16.2375067,-97.2932803
+82,Puebla,Cuetzalan del Progreso,2002,20.0176353,-97.5233705
+83,Puebla,Zacatlan,2011,19.9350819,-97.9611534
+84,Puebla,Pahuatlan,2012,20.2769343,-98.1501609
+85,Puebla,Chignahuapan,2012,19.8383768,-98.0312084
+86,Puebla,Cholula,2012,19.0765772,-98.3021192
+87,Puebla,Tlatlauquitepec,2012,19.8463549,-97.4971981
+88,Puebla,Xicotepec,2012,20.2786208,-97.964259
+89,Puebla,Atlixco,2015,18.9131227,-98.4293891
+90,Puebla,Huahuchinango,2015,20.1757001,-98.0628862
+91,Puebla,Tetela de Ocampo,Unknown,19.8115842,-97.8096037
+92,Queretaro,Bernal,2005,20.7379323,-99.9423166
+93,Queretaro,Jalpan de Serra,2010,21.2190312,-99.4714352
+94,Queretaro,Cadereyta de Montes,2011,20.6904037,-99.8208632
+95,Queretaro,Tequisquiapan,2012,20.5187326,-99.8850586
+96,Queretaro,San Joaquin,2015,20.916487,-99.5649876
+97,Queretaro,Amealco de Bonfil,Unknown,20.1885969,-100.1451177
+98,Quintana Roo,Bacalar,2006,18.6782919,-88.3923946
+99,Quintana Roo,Isla Mujeres ,2015,21.2321799,-86.7340934
+100,Quintana Roo,Tulum,2015,20.2114185,-87.4653502
+101,San Luis Potosi,Real de Catorce,2001,23.6893967,-100.8855459
+102,San Luis Potosi,Xilitla,2011,21.3841719,-98.9921748
+103,San Luis Potosi,Santa María del Río,Unknown,21.8031036,-100.7336555
+104,San Luis Potosi,Aquismón,Unknown,21.6248648,-99.0197318
+105,Sinaloa,Cosala,2005,24.4136366,-106.6915369
+106,Sinaloa,El Fuerte,2009,26.417632,-108.6145938
+107,Sinaloa,El Rosario,2012,22.75,-105.371111
+108,Sinaloa,Mocorito,2015,25.481348,-107.9205937
+109,Sonora,Alamos,2005,27.0254869,-108.941309
+110,Sonora,Magdalena de Kino,2012,30.6248514,-110.9714055
+111,Tabasco,Tapijulapa,2010,17.4622198,-92.7779652
+112,Tamaulipas,Mier,2007,26.4265448,-99.1511502
+113,Tamaulipas,Tula,2011,22.9906564,-99.7204805
+114,Tlaxcala,Huamantla,2007,19.3184941,-97.9233826
+115,Tlaxcala,Tlaxco,2015,19.61766,-98.1174721
+116,Veracruz,Coatepec,2006,19.451938,-96.9594511
+117,Veracruz,Xico,2011,19.4247826,-97.0041525
+118,Veracruz,Papantla,2012,20.4566709,-97.3156131
+119,Veracruz,Orizaba,2015,18.8504744,-97.1036396
+120,Veracruz,Zozocolco,2015,20.1400074,-97.5750164
+121,Veracruz,Coscomatepec,2015,19.0683148,-97.0471556
+122,Yucatan,Izamal,2002,20.9299997,-89.0227126
+123,Yucatan,Valladolid,2012,20.68964,-88.2022488
+124,Yucatan,Mani,Unknown,20.3930712,-89.3917555
+125,Yucatan,Sisal,Unknown,21.1667573,-90.0244872
+126,Zacatecas,Jerez de Garcia Salinas,2007,22.6468746,-102.9876221
+127,Zacatecas,Teul de Gonzalez Ortega,2011,21.4658511,-103.4598473
+128,Zacatecas,Sombrerete,2012,23.6342457,-103.6391657
+129,Zacatecas,Pinos,2012,22.2972779,-101.5747236
+130,Zacatecas,Nochistlan,2012,21.3634678,-102.8436668
+131,Zacatecas,Guadalupe,Unknown,22.7565759,-102.511889
